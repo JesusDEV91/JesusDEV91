@@ -58,7 +58,7 @@
     <td align="center" width="50%">
       <h3>🔧 DhamSolarSystems</h3>
       <p>Web de sistemas de protección solar con enfoque profesional</p>
-      <a href="[https://github.com/JesusBBP/DhamSolarSystems-web](https://www.dhamsolarsystems.com/)">
+      <a href="https://www.dhamsolarsystems.com">
         <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
