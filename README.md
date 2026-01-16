@@ -24,6 +24,7 @@
   <a href="mailto:barrosobonillajesus@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  
 </p>
 
 ---
@@ -65,6 +66,9 @@
       <h3>🏡 HomeandHeart</h3>
       <p>Plataforma de alquiler de casas con servicios personalizados</p>
       <a href="https://www.homeandheart.es/" target="_blank">
+  <img src="https://img.shields.io/badge/Ver_Sitio_Web-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+      </a>
+      <a href="https://bufetedelatorre.com/" target="_blank">
   <img src="https://img.shields.io/badge/Ver_Sitio_Web-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white"/>
       </a>
     </td>
