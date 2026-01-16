@@ -12,7 +12,7 @@
 ## 🔗 Conecta conmigo:
 
 <p align="center">
-  <a href="https://github.com/JesusDEV91" target="_blank">
+  <a href="https://github.com/JesusBBP" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.instagram.com/jesus_barroso_bonilla/" target="_blank">
@@ -58,15 +58,15 @@
     <td align="center" width="50%">
       <h3>🔧 DhamSolarSystems</h3>
       <p>Web de sistemas de protección solar con enfoque profesional</p>
-      <a href="https://www.dhamsolarsystems.com">
-        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      <a href="https://jesusbbp.github.io/DhamSolarSystems-web/" target="_blank">
+        <img src="https://img.shields.io/badge/Ver_Sitio_Web-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white"/>
       </a>
     </td>
     <td align="center" width="50%">
       <h3>🏡 HomeandHeart</h3>
       <p>Plataforma de alquiler de casas con servicios personalizados</p>
-      <a href="https://github.com/JesusBBP/HomeandHeart">
-        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      <a href="https://jesusbbp.github.io/HomeandHeart/" target="_blank">
+        <img src="https://img.shields.io/badge/Ver_Sitio_Web-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white"/>
       </a>
     </td>
   </tr>
