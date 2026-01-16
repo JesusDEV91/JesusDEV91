@@ -12,7 +12,7 @@
 ## 🔗 Conecta conmigo:
 
 <p align="center">
-  <a href="https://github.com/JesusBBP" target="_blank">
+  <a href="https://github.com/JesusDEV91" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.instagram.com/jesus_barroso_bonilla/" target="_blank">
@@ -44,7 +44,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
@@ -58,7 +57,7 @@
     <td align="center" width="50%">
       <h3>🔧 DhamSolarSystems</h3>
       <p>Web de sistemas de protección solar con enfoque profesional</p>
-      <a href="https://jesusbbp.github.io/DhamSolarSystems-web/" target="_blank">
+      <a href="https://jesusbbp.github.io/[DhamSolarSystems-web](https://www.dhamsolarsystems.com/)/" target="_blank">
         <img src="https://img.shields.io/badge/Ver_Sitio_Web-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white"/>
       </a>
     </td>
@@ -78,15 +77,15 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JesusBBP&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusBBP&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusDEV91&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JesusBBP&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JesusDEV91&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JesusBBP&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=JesusDEV91&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </p>
