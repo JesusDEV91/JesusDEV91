@@ -64,7 +64,7 @@
     <td align="center" width="50%">
       <h3>🏡 HomeandHeart</h3>
       <p>Plataforma de alquiler de casas con servicios personalizados</p>
-      <a href="https://www.dhamsolarsystems.com/" target="_blank">
+      <a href="https://www.homeandheart.es/" target="_blank">
   <img src="https://img.shields.io/badge/Ver_Sitio_Web-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white"/>
       </a>
     </td>
