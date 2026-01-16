@@ -55,21 +55,21 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <h3>🔧 DhamSolarSystems</h3>
       <p>Web de sistemas de protección solar con enfoque profesional</p>
      <a href="https://www.dhamsolarsystems.com/" target="_blank">
   <img src="https://img.shields.io/badge/Ver_Sitio_Web-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white"/>
       </a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <h3>🏡 HomeandHeart</h3>
       <p>Plataforma de alquiler de casas con servicios personalizados</p>
       <a href="https://www.homeandheart.es/" target="_blank">
   <img src="https://img.shields.io/badge/Ver_Sitio_Web-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white"/>
       </a>
     </td>
-     <td align="center" width="50%">
+     <td align="center" width="33%">
       <h3>🏡 bufetete delatorre</h3>
       <p>Bufet de abogado</p>
       <a href="https://bufetedelatorre.com/" target="_blank">
