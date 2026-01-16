@@ -75,26 +75,8 @@
       <a href="https://bufetedelatorre.com/" target="_blank">
   <img src="https://img.shields.io/badge/Ver_Sitio_Web-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white"/>
       </a>
-    </td>
-    
+    </td> 
   </tr>
 </table>
 
 ---
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JesusBBP&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusDEV91&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JesusDEV91&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JesusDEV91&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-</p>
