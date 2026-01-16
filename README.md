@@ -12,7 +12,7 @@
 ## 🔗 Conecta conmigo:
 
 <p align="center">
-  <a href="https://github.com/JesusBBP" target="_blank">
+  <a href="https://github.com/JesusDEV91" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.instagram.com/jesus_barroso_bonilla/" target="_blank">
