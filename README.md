@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280" alt="Coding GIF"/>
+  <img src="https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_512.gif" width="280" alt="Coding GIF"/>
 </p>
 
 <p align="center">
@@ -17,14 +17,6 @@
   <a href="https://www.linkedin.com/in/jesus-barroso-bonilla/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:barrosobonillajesus@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.instagram.com/jesus.bb.m/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
-
----
-
-### 📊 Mis Estadísticas de GitHub
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JesusDEV91&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true" />
-  <img width="44.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusDEV91&layout=compact&theme=visual_studio_code&hide=html,css" />
 </p>
 
 ---
