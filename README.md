@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  💻 <strong>Desarrollador Junior Full Stack</strong> especializado en el ecosistema <strong>Java</strong><br/>
+  💻 <strong>Desarrollador Junior</strong> especializado en el ecosistema <strong>Java</strong><br/>
   📚 Estudiante de <strong>DAM</strong> | Apasionado por el desarrollo <strong>Backend y Móvil</strong>
 </p>
 
