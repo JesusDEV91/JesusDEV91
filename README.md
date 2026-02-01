@@ -51,10 +51,9 @@
 ---
 
 ### 🚀 Proyectos Destacados
-*(En lugar de solo la web, añade una breve descripción técnica)*
 
 | Proyecto | Descripción Técnica | Link |
 | :--- | :--- | :--- |
 | **DhamSolarSystems** | Web profesional. Enfoque en UI/UX y SEO. | [Ver Sitio](https://www.dhamsolarsystems.com/) |
-| **HomeandHeart** | Gestión de alquileres. Lógica de servicios personalizados. | [Ver Sitio](https://www.homeandheart.es/) |
+| **HomeandHeart** |  Lógica de servicios personalizados. | [Ver Sitio](https://www.homeandheart.es/) |
 | **Bufete DeLaTorre** | Sitio corporativo legal con diseño sobrio. | [Ver Sitio](https://bufetedelatorre.com/) |
