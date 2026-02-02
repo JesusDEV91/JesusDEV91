@@ -57,7 +57,7 @@
 | **DhamSolarSystems** | Web profesional. Enfoque en UI/UX y SEO. | [Ver Sitio](https://www.dhamsolarsystems.com/) |
 | **HomeandHeart** |  Lógica de servicios personalizados. | [Ver Sitio](https://www.homeandheart.es/) |
 | **Bufete DeLaTorre** | Sitio corporativo legal con diseño sobrio. | [Ver Sitio](https://bufetedelatorre.com/) |
-| **Traductio Language Services ** | Web profesional. | [Ver Sitio](https://traductionlanguageservices.netlify.app//) |
+| **Traductio Language Services** | Web profesional. | [Ver Sitio](https://traductionlanguageservices.netlify.app//) |
 
 
 
